@@ -12,14 +12,22 @@ Welkom op mijn persoonlijke cv-site. Hier vind je een korte samenvatting van mij
 
 ## Opleiding
 
-<strong>Bachelor of Science (Bsc) Liberal Arts and Sciences</strong>	----- Universiteit Utrecht
+<div style="display: flex; justify-content: space-between;">
+  <span><strong>Bachelor of Science (Bsc) Liberal Arts and Sciences</strong></span>
+  <span>Universiteit Utrecht</span>
+</div>
+
 [september 2024 – heden]
 Verwachte afronding: juli 2027
 -	Hoofdrichting in Kunstmatige Intelligentie met inzichten uit verschillende disciplines: informatica, logica, psychologie, filosofie en taalkunde.
 -	Minor in Inleiding in het Recht
 -	Minor in Seksualiteit in Interdisciplinair Perspectief
 
-<strong>Bachelor of Laws (LLB) Rechtsgeleerdheid</strong> ----- Universiteit Tilburg
+<div style="display: flex; justify-content: space-between;">
+  <span><strong>Bachelor of Laws (LLB) Rechtsgeleerdheid</strong></span>
+  <span>Universiteit Tilburg</span>
+</div>
+
 [september 2019 – juli 2020]
 Propedeuse behaald
 
