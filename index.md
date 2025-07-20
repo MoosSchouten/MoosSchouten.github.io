@@ -1,9 +1,7 @@
 <link rel="stylesheet" href="style.css">
 ---
-title: "CV Moos Schouten"
----
 
-# Moos Schouten
+# Curriculum Vitae
 
 **Enthousiast, gezellig, eerlijk en authentiek**
 
