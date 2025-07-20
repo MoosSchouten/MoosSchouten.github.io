@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="style.css">
+<img src="foto.jpg" alt="Moos Schouten" style="width: 150px; border-radius: 50%;">
 ---
 
 # Curriculum Vitae
@@ -31,7 +32,7 @@ Propedeuse behaald
   <span>Diversion Amsterdam</span>
 </div>
 
-[augustus 2024 – heden] <span style="color: blue;">https://www.diversion.nl/</span> <br>
+[augustus 2024 – heden] <span style="color: blue;">[https://www.diversion.nl/](https://www.diversion.nl)</span> <br>
 Diversion is een organisatie die maatschappelijke problemen aanpakt door o.a. educatieve programma’s te ontwikkelen. Ze werken samen met jongeren, ervaringsdeskundigen en partners om thema’s zoals discriminatie, armoede en polarisatie bespreekbaar te maken.
 -	Ik werk als peer educator bij het programma Gelijk = Gelijk. Een programma dat bewustwording creëert over discriminatie, diversiteit en inclusie.
 -	Ik werk mee aan het project ‘Samen sterk tegen online haat’ waarin we een interventie ontwikkelen om online haat te verminderen.
@@ -64,7 +65,7 @@ COC is een LHBTQIA+ belangenorganisatie en verzorgt o.a. gastlessen op scholen o
 
 <div style="display: flex; justify-content: space-between;">
   <span><strong>Basisopleiding Beeldende Kunst</strong>	</span>
-  <span>Hogeschool voor de Kunsten Utrecht (HKU)</span>
+  <span>HKU</span>
 </div>
 
 [september 2025 – heden]<br>
