@@ -2,4 +2,3 @@ title: "Moos Schouten"
 theme: jekyll-theme-minimal
 logo: /foto.jpg
 include: ["style.css"]
-<img src="foto.jpg" alt="Moos Schouten" style="width: 150px; border-radius: 50%;">
