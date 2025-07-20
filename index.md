@@ -1,12 +1,13 @@
+<link rel="stylesheet" href="style.css">
 ---
-title: "Moos Schouten"
+title: "CV Moos Schouten"
 ---
 
 # Moos Schouten
 
-**Data-analist | Python & R | Open Source Enthousiast**
+**Enthousiast, gezellig, eerlijk en authentiek**
 
-Welkom op mijn persoonlijke cv-site. Hier vind je een korte samenvatting van mijn profiel en mijn projecten.
+Welkom op mijn persoonlijke cv-site. Hier vind je een korte samenvatting van mijn profiel en mijn werkzaamheden.
 
 ---
 
