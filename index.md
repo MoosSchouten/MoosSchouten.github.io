@@ -17,7 +17,7 @@ Welkom op mijn persoonlijke cv-site. Hier vind je een korte samenvatting van mij
   <span>Universiteit Utrecht</span>
 </div>
 
-[september 2024 – heden]
+[september 2024 – heden]<br>
 Verwachte afronding: juli 2027
 -	Hoofdrichting in Kunstmatige Intelligentie met inzichten uit verschillende disciplines: informatica, logica, psychologie, filosofie en taalkunde.
 -	Minor in Inleiding in het Recht
