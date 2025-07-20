@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="style.css">
-<img src="foto.jpg" alt="Moos Schouten" style="width: 150px; border-radius: 50%;">
+
 ---
 
 # Curriculum Vitae
@@ -42,7 +42,7 @@ Diversion is een organisatie die maatschappelijke problemen aanpakt door o.a. ed
   <span>COC Midden-Nederland</span>
 </div>
 
-[september 2023 – heden] <span style="color: blue;">https://cocmiddennederland.nl/</span> <br>
+[september 2023 – heden] <span style="color: blue;">[https://cocmiddennederland.nl/](https://cocmiddennederland.nl)</span> <br>
 COC is een LHBTQIA+ belangenorganisatie en verzorgt o.a. gastlessen op scholen over seksuele en genderdiversiteit. Met persoonlijke verhalen en dialoog proberen we vooroordelen weg te nemen en meer begrip te creëren voor LHBTIQ+ers. 
 -	Ik ben sinds september 2023 voorlichter bij COC Midden-Nederland en ik zit sinds september 2024 in het coördinatorenteam als commissaris intern.  
 
@@ -77,7 +77,7 @@ Tijdens de basisopleiding Beeldende Kunst leer ik omgaan met het creatieve proce
   <span>Centraal Museum Utrecht</span>
 </div>
 
-[april 2024 – februari 2025] <span style="color: blue;">https://nijntjemuseum.nl/nl/</span> <br>
+[april 2024 – februari 2025] <span style="color: blue;">[https://nijntjemuseum.nl/nl/](https://nijntjemuseum.nl/nl)</span> <br>
 Het Nijntje museum is gericht op jonge kinderen, waar spelenderwijs leren centraal staat. Het museum is gebaseerd op het werk van Dick Bruna en biedt een creatieve en educatieve ervaring voor gezinnen.
 -	Als vrijwilliger publieksbegeleider begeleid ik bezoekers, en ben ik een aanspreekpunt voor bezoekers in het museum. Als ticketcontroleur zorg ik voor een gastvrije ontvangst.
 
@@ -86,7 +86,7 @@ Het Nijntje museum is gericht op jonge kinderen, waar spelenderwijs leren centra
   <span>Jongerius Amersfoort</span>
 </div>
 
-[juni 2022 – september 2022] <span style="color: blue;">https://www.jongerius.nl/</span> <br>
+[juni 2022 – september 2022] <span style="color: blue;">[https://www.jongerius.nl/](https://www.jongerius.nl)</span> <br>
 Jongerius Gerechtsdeurwaarders is een gerechtsdeurwaarderskantoor gevestigd in Amersfoort, gespecialiseerd in incasso en juridische dienstverlening.
 -	Ik was verantwoordelijk voor het beheer van de incassoportefeuilles, het opstellen en verwerken van huurdagvaardigingen en het onderhouden van debiteurencontact.  
 
@@ -95,7 +95,7 @@ Jongerius Gerechtsdeurwaarders is een gerechtsdeurwaarderskantoor gevestigd in A
   <span>Spoedtest B.V. Amsterdam</span>
 </div>
 
-[december 2020 – september 2021] <span style="color: blue;">https://spoedtest.nl/</span> <br>
+[december 2020 – september 2021] <span style="color: blue;">[https://spoedtest.nl/](https://spoedtest.nl)</span> <br>
 Spoedtest was een Nederlandse organisatie die tijdens de COVID-19 pandemie sneltesten en PCR-testen aanbod, inclusief internationaal erkende reiscertificaten. 
 -	Ik heb bij Spoedtest gewerkt als coronatestafnemer en daarnaast was ik manager van locatie Apeldoorn. Hier was ik verantwoordelijk voor het uitvoeren van controles en kwaliteitsbewaking en voor het opstellen van personeelsroosters.
 
