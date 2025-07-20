@@ -31,12 +31,16 @@ Propedeuse behaald
   <span>Diversion Amsterdam</span>
 </div>
 
-[augustus 2024 – heden] https://www.diversion.nl/
+[augustus 2024 – heden] <span style="color: grey;">https://www.diversion.nl/</span> <br>
 Diversion is een organisatie die maatschappelijke problemen aanpakt door o.a. educatieve programma’s te ontwikkelen. Ze werken samen met jongeren, ervaringsdeskundigen en partners om thema’s zoals discriminatie, armoede en polarisatie bespreekbaar te maken.
 -	Ik werk als peer educator bij het programma Gelijk = Gelijk. Een programma dat bewustwording creëert over discriminatie, diversiteit en inclusie.
 -	Ik werk mee aan het project ‘Samen sterk tegen online haat’ waarin we een interventie ontwikkelen om online haat te verminderen.
 
-<strong>COC voorlichting: <u>Vrijwilligerscoördinator</u></strong>								COC Midden-Nederland
+<div style="display: flex; justify-content: space-between;">
+  <span><strong>COC voorlichting: <u>Vrijwilligerscoördinator</u></strong></span>
+  <span>COC Midden-Nederland</span>
+</div>
+
 [september 2023 – heden] https://cocmiddennederland.nl/
 COC is een LHBTQIA+ belangenorganisatie en verzorgt o.a. gastlessen op scholen over seksuele en genderdiversiteit. Met persoonlijke verhalen en dialoog proberen we vooroordelen weg te nemen en meer begrip te creëren voor LHBTIQ+ers. 
 -	Ik ben sinds september 2023 voorlichter bij COC Midden-Nederland en ik zit sinds september 2024 in het coördinatorenteam als commissaris intern.  
